@@ -14,7 +14,7 @@ namespace Programa
             Console.Write("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {SubtractNumbers(a,b)}");
+            Console.WriteLine($"Adding {a} - {b} equals {SubtractNumbers(a,b)}");
         
         }
 
