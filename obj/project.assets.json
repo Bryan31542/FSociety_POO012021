@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bryan\\.nuget\\packages\\": {}
+    "C:\\Users\\DARWIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bryan\\Documents\\Workspace\\FSociety\\FSociety.csproj",
+      "projectUniqueName": "C:\\Users\\DARWIN\\Desktop\\PROGRAMACION\\1.POO\\FSociety_POO012021\\FSociety.csproj",
       "projectName": "FSociety",
-      "projectPath": "C:\\Users\\bryan\\Documents\\Workspace\\FSociety\\FSociety.csproj",
-      "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bryan\\Documents\\Workspace\\FSociety\\obj\\",
+      "projectPath": "C:\\Users\\DARWIN\\Desktop\\PROGRAMACION\\1.POO\\FSociety_POO012021\\FSociety.csproj",
+      "packagesPath": "C:\\Users\\DARWIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DARWIN\\Desktop\\PROGRAMACION\\1.POO\\FSociety_POO012021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\DARWIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
